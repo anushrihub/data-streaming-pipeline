@@ -13,6 +13,6 @@ airflow users create \
     --lastname admin \
     --role Admin \
     --email admin@example.com \
-    --password admin
+    --password dataengineerproject
 
 airflow webserver

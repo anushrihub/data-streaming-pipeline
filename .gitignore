@@ -2,3 +2,5 @@
 .venv/
 # mac system file
 .DS_Store
+# accidently commited __pycache__
+dags/__pycache__/

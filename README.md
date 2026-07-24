@@ -44,7 +44,6 @@ Built an end-to-end data engineering pipeline that implements the complete data 
 
                                           (All services run in Docker containers)
 ```
-```
 
 
 
